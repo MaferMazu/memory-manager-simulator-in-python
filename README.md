@@ -43,16 +43,20 @@ python3 main.py
 
 You have 4 commands:
 
-i. RESERVAR <nombre> <cantidad>
-Represents a space reservation of <number> blocks, associated with the identifier <name>.
+i. RESERVAR \<nombre> \<cantidad>
 
-ii. LIBERAR <nombre>
-Represents a release of the space containing the identifier <name>.
+Represents a space reservation of \<number> blocks, associated with the identifier \<name>.
+
+ii. LIBERAR \<nombre>
+
+Represents a release of the space containing the identifier \<name>.
 
 iii. MOSTRAR
+
 To show the structure
 
 iv. SALIR
+
 To exit.
 
 ## :mag: For run the tests
